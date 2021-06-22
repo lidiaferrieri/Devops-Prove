@@ -7,6 +7,7 @@ public class Avvio {
 		System.out.println("Ciao Mondo!");
 		System.out.println("o'framewoooooook");
 		system.out.println("Questo github ha un aura potentissimaa");
+		System.out.println(" fabio fa o c.....");
 	}
 
 }
